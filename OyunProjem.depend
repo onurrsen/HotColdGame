@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728591873 source:c:\codeblocks\oyunprojem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
